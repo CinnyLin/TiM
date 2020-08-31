@@ -576,6 +576,7 @@ section {
 .about .content ul {
   list-style: none;
   padding: 0;
+  padding-left: 100px;
 }
 
 .about .content ul li {
@@ -615,6 +616,7 @@ section {
   animation-delay: 0.8s;
   margin-top: 6px;
   border: 2px solid #e17f93;
+  margin-left: 100px;
 }
 
 .about .content .btn-learn-more:hover {
