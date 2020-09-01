@@ -721,7 +721,7 @@ section {
 .features .icon-box::before {
   content: "";
   position: absolute;
-  background: #e1f0fa;
+  background: #99cccc;
   right: -60px;
   top: -40px;
   width: 100px;
@@ -790,6 +790,10 @@ section {
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
+.testimonials {
+  background: none;
+}
+
 .testimonials .testimonial-wrap {
   padding-left: 50px;
 }
@@ -827,7 +831,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #e1f0fa;
+  color: #99cccc;
   font-size: 26px;
 }
 
